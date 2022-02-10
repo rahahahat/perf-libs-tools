@@ -1,0 +1,1 @@
+cublasStatus_t cublasSrotg_v2(cublasHandle_t handle, float* a, float* b, float* c, float* s)
